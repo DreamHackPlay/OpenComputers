@@ -1,4 +1,4 @@
-# opencomp
+# OpenComputers
 Здесь собраны все мои программы, библиотеки для работы с OpenComputers, которыми я пользуюсь
 
 #1. "Сумерки реактора"
@@ -25,7 +25,7 @@
 
 Установка:
 1. Установите OpenOS.
-2. Запустите команду: wget 'https://raw.githubusercontent.com/DreamHackPlay/opencomp/refs/heads/main/ReactorTwilight.lua' reactor.lua.
+2. Запустите команду: wget 'https://raw.githubusercontent.com/DreamHackPlay/opencomputers/refs/heads/main/ReactorTwilight.lua' reactor.lua.
 3. Скрафтите и установите в реактор "Компьютерный порт реактора".
 4. Запустите программу, используя команду reactor.lua или reactor.
 5. При первом запуске программа запросит у вас максимально возможное количество энергии в буфере реактора. В дальнейшем данные будут сохранены для повторных запусков.
